@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "Luis Javier Tovar",
+      "username": "",
+      "email": "luisjavier_tovar@outlook.com",
+      "phone": "1234567899",
+      "companiesId": "1",
+      "id": 6
+    },
+    {
+      "name": "yude",
+      "username": "",
+      "email": "bomDiaCompania@gmail.com",
+      "phone": "8340028922",
+      "companiesId": "2",
+      "id": 7
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net"
+    },
+    {
+      "id": 2,
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency"
+    },
+    {
+      "id": 3,
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution"
+    }
+  ]
+}
